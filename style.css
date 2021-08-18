@@ -109,3 +109,12 @@ width: 70%;
     font-size: 14px;
     padding: 5px;
 }
+
+@media screen and (min-width:280px){
+    .left-section{
+        padding:30px 10px;
+    }
+    .right-section{
+        padding:30px 10px;
+    }
+}
